@@ -1,4 +1,4 @@
-# Show Current User
+# Schedule an appointment
 
 Schedule an appointment for a user
 

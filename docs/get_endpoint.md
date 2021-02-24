@@ -1,4 +1,4 @@
-# Show Current User
+# Get user appointments
 
 Get list of appointment times for a user
 
