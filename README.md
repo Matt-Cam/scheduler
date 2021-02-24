@@ -16,7 +16,7 @@ To get the API up and running, you have the option to either run this project as
 - open a command line and type the following command
 
 ```bash
-docker run --rm -p 8000:8000 mattcameron/scheduler_api
+docker run --rm -p 8000:8000 mattcameron/maven_scheduler
 ```
 
 ### Option 2: Run on in your local node.js environment
